@@ -1,0 +1,9 @@
+C:\Users\Josie\source\repos\Biblioteca\MatematicaOperacao\bin\Debug\MatematicaOperacao.dll
+C:\Users\Josie\source\repos\Biblioteca\MatematicaOperacao\bin\Debug\MatematicaOperacao.pdb
+C:\Users\Josie\source\repos\Biblioteca\MatematicaOperacao\obj\Debug\MatematicaOperacao.csprojAssemblyReference.cache
+C:\Users\Josie\source\repos\Biblioteca\MatematicaOperacao\obj\Debug\MatematicaOperacao.csproj.CoreCompileInputs.cache
+C:\Users\Josie\source\repos\Biblioteca\MatematicaOperacao\obj\Debug\MatematicaOperacao.dll
+C:\Users\Josie\source\repos\Biblioteca\MatematicaOperacao\obj\Debug\MatematicaOperacao.pdb
+C:\Users\Josie\source\repos\Biblioteca\MatematicaOperacao\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Josie\source\repos\Biblioteca\MatematicaOperacao\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Josie\source\repos\Biblioteca\MatematicaOperacao\obj\Debug\MatematicaOperacao.csproj.CopyComplete
